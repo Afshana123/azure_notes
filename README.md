@@ -3,6 +3,6 @@
 
 Testing how to add picture:
 
-![](../images/randomimage.png)
+![](/images/randomimage.png)
 
 
