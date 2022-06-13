@@ -354,6 +354,34 @@ When you sign up for an Azure account, Microsoft creates both a billing account 
 
 Azure has many regions around the world, and each region contains multiple data centers. You can provide high availability by distributing virtual machines across availability zones, which are in separate data centers.
 
+### Knowledge Check 
+
+**Which statement about how Azure structures billing and resource management is correct?**
+
+- Billing accounts contain subscriptions.
+- Subscriptions contain resource groups.
+- Resource groups contain resources.
+
+A billing account can contain multiple subscriptions within it to help isolate and organize how payments are organized. Subscriptions contain multiple resource groups, which are collections of related resources, such as compute, storage, and network resources within the same application.
+
+**What is Azure Monitor?**
+- a service that is used to monitor the operation and performance of an Azure environment
+
+Azure Monitor is your one-stop shop for keeping track of what's happening with your Azure resources. It's a collection of a variety of monitoring tools. 
+
+The core features of Azure Monitor are metrics and alerts. Metrics are basically statistics on various aspects of your resources, such as CPU usage on virtual machines and space used on Blob Storage. Azure Monitor creates graphs showing how these metrics have changed over time. It can also watch critical metrics you specify and send you an alert if there's a problem.
+
+**Which of the following services offer virtual servers called VMs that offer Microsoft or Linux operating systems on Microsoft Azure?**
+- Azure Virtual Machines
+
+Microsoft offered only one type of compute service: virtual machines, or VMs for short. These are machines that run either Windows or Linux.
+
+**Which statement accurately describes Microsoft Azure?**
+- A collection of online services that organizations can use to build, host, and deliver applications
+
+So what is Microsoft Azure? To put it simply, it's a collection of online services that organizations can use to build, host, and deliver applications. The best part is that you don't need to have your own data center or even any servers because Azure runs in Microsoft's data centers around the world, which your users can access over the internet.
+
+Not only does this approach save you the trouble of having to build and maintain your own on-premises IT infrastructure, but it can also save you money because you only have to pay for what you use, and you can scale your Azure resources up and down as needed.
 
 
 
